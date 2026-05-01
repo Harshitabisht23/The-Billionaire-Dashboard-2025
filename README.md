@@ -22,7 +22,7 @@ This Power BI dashboard delivers a **multi-page visual analysis** of the world's
 ![Overview](Overview.png)
 
 ### 📄 Page 2 — Wealth Insights
-![Wealth Insights](Wealth_Insights.png)
+![Wealth Insights.png](Wealth Insights.png)
 
 ### 📄 Page 3 — Deep Insights
 ![Deep Insights](Deep_Insights.png)
