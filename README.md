@@ -22,10 +22,10 @@ This Power BI dashboard delivers a **multi-page visual analysis** of the world's
 ![Overview](Overview.png)
 
 ### 📄 Page 2 — Wealth Insights
-![Wealth Insights.png](Wealth Insights.png)
+![Deep_Insights](Deep Insights.png)
 
 ### 📄 Page 3 — Deep Insights
-![Deep Insights](Deep_Insights.png)
+![Deep_Insights](Deep_Insights.png)
 
 ---
 
@@ -140,9 +140,8 @@ billionaire-dashboard/
 
 ## 🙋‍♂️ Author
 
-**Your Name**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)
+**Your Name** Harshita Bisht
+📧 your.email@harshitabisht005@gmail.com
 
 ---
 
